@@ -1,0 +1,59 @@
+nav li a{
+	color:white;
+}
+
+.navbar{
+	background-color: transparent;
+	color: white;
+}
+.navbar-brand{
+	font-family: 'Shadows Into Light Two', cursive;
+	font-size: 250%;
+}
+.navbar-nav{
+
+}
+.jumbotron{
+	background-color: transparent;
+
+	color:white;
+	font-size: 200%;
+	padding-right: 8%;
+
+}
+.btn{
+	color: white;
+	border-color: white;
+	border-width: 2px;
+}
+
+a{
+	color: white;
+}
+body{
+	background: url("assets/newpic1.jpg") no-repeat center center fixed;
+	display: table;
+	
+	position: relative;
+	width: 100%;
+	background-size: cover;
+	height: 100%;
+}
+.card{
+	background-color: #F7D3B2;
+	margin:2% ;
+}
+#awards{
+	background: url("assets/pic90.jpg") no-repeat center center fixed;
+	rgba(0,0,0,0.6);
+	display: table;
+	height: 100%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+
+}
+
+#events{
+	margin: 2%;
+}
